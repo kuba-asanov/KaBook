@@ -8,4 +8,4 @@ Here you can read any book from existing books. Now I have added only 6 books, b
 [Watch the video](https://www.youtube.com/watch?v=oY0HaVGtwnI)
 
 ### Used materials
-To create the application, I used an [android studio](https://en.wikipedia.org/wiki/Android_Studio) and libraries that are used to create a list of books([RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)) and to read pdf format([AndroidPdfViewer](https://jitpack.io/p/barteksc/AndroidPdfViewerV1))
+To create the application, I used an [Android Studio](https://en.wikipedia.org/wiki/Android_Studio) and libraries that are used to create a list of books([RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)) and to read pdf format([AndroidPdfViewer](https://jitpack.io/p/barteksc/AndroidPdfViewerV1))
